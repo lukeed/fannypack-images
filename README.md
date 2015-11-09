@@ -1,5 +1,5 @@
 # fannypack-less
-Official Fannypack task for compiling LESS files
+Official Fannypack task for minifying images for production.
 
 ## Installation
 `npm install fannypack-images --save-dev`
