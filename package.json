@@ -1,0 +1,23 @@
+{
+  "name": "fannypack-images",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": {
+    "name": "Luke Edwards",
+    "email": "luke@lukeed.com",
+    "url": "http://www.lukeed.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lukeed/fannypack-images.git"
+  },
+  "keywords": ["gulp", "images", "imagemin", "fannypack", "webpack"],
+  "dependencies": {
+    "gulp-flatten": "^0.2.0",
+    "gulp-imagemin": "^2.3.0"
+  }
+}
