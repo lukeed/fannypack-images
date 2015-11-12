@@ -5,7 +5,7 @@ var $         = Fannypack.$
 var imagemin    = require('gulp-imagemin')
 var flatten     = require('gulp-flatten')
 
-module.exports = function(config){
+Fannypack.Tasks['images'] = function(config){
   if(!config.images) return
 
   var paths = {
