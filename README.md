@@ -1,4 +1,4 @@
-# fannypack-less
+# fannypack-images
 Official Fannypack task for minifying images for production.
 
 ## Installation
