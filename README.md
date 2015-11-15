@@ -31,6 +31,6 @@ Fannypack.init()
 
 ## Flattening
 
-If set to true, images within `src/assets/img/home/*.jpg`, `src/assets/img/app/*.jpg` and `src/assets/img/*.jpg` will ALL be merged into `build/assets/img/*.jpg` **without** retaining the subdirectories `home` and `app`.
+If set to true, images within `src/assets/img/home/*.jpg`, `src/assets/img/app/*.jpg` and `src/assets/img/*.jpg` will be merged into `build/assets/img/*.jpg` **without** retaining the subdirectories `home` and `app`.
 
 If you want to keep **any** subdirectories, set `flatten` to `false`.
